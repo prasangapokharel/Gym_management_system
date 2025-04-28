@@ -24,14 +24,14 @@
                                 Memberships
                             </a>
                         </li>
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a class="nav-link" href="payments.php">
                                 <i class="bi bi-cash-stack me-2"></i>
                                 Payments
                             </a>
-                        </li>
+                        </li> -->
                         <li class="nav-item">
-                            <a class="nav-link active" href="sms-settings.php">
+                            <a class="nav-link active" href="send-sms.php">
                                 <i class="bi bi-chat-dots me-2"></i>
                                 SMS Notifications
                             </a>
